@@ -1,0 +1,36 @@
+.mt-5{
+  margin-top: 5px;
+}
+.mt-20{
+  margin-top: 20px;
+}
+.text-center{
+  text-align: center;
+}
+
+.slick-slide img {
+    display: inline-block !important;
+}
+
+
+.input-error {
+    width: 100%;
+    border-color: #e63946;
+ }
+
+.error {
+    color:#e63946;
+    margin-top: 0.3rem;
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.ant-card-meta-detail{
+  width:100%
+}
+
+.ant-card-meta-detail textarea{
+  height:200px;
+}
