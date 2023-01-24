@@ -2564,12 +2564,12 @@
   "resolved" "https://registry.npmjs.org/netmask/-/netmask-2.0.2.tgz"
   "version" "2.0.2"
 
-"next-redux-wrapper@^8.0.0":
-  "integrity" "sha512-zKRdpvDeqNXQr1j5DUWwsB2fz6XpHR32iy2qJGItTKLsbLB9GvtxDL9b4mFCfhDvnzy5dw97UqMjWDpFY8h0zA=="
-  "resolved" "https://registry.npmjs.org/next-redux-wrapper/-/next-redux-wrapper-8.0.0.tgz"
-  "version" "8.0.0"
+"next-redux-wrapper@^7.0.5":
+  "integrity" "sha512-UFXdAWG5i+GFT8+Hoqpx3GArkPh34fVWF9YoA2VSHlBzsrPtnRd7NWM6FNSYUennpommTpWJ09mu+r/1UxyIkg=="
+  "resolved" "https://registry.npmjs.org/next-redux-wrapper/-/next-redux-wrapper-7.0.5.tgz"
+  "version" "7.0.5"
 
-"next@^13.0.4", "next@>=9":
+"next@^13.0.4", "next@>=10.0.3":
   "integrity" "sha512-awpc3DkphyKydwCotcBnuKwh6hMqkT5xdiBK4OatJtOZurDPBYLP62jtM2be/4OunpmwIbsS0Eyv+ZGU97ciEg=="
   "resolved" "https://registry.npmjs.org/next/-/next-13.0.5.tgz"
   "version" "13.0.5"
